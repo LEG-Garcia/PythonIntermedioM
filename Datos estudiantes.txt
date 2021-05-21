@@ -1,0 +1,8 @@
+nombre completo| Departamento | telefono
+Lucia Eleonora García García | Sacatepéquez | 5441-5286
+Juan Fernando Sanchez | Guatemala | 5856-5555
+Gabriela Galvez | Chimaltenago | 8745-5578
+Kevin Martinez | San Marcos | 4578-5477
+Sergio Cuarchita | Sacatepéquez | 5578-2225
+Elias Guzman | Guatemala| 4578-8864
+Selvin García | Sacatepéquez | 6589-7841
